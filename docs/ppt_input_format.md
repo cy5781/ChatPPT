@@ -95,6 +95,13 @@
 
 可以通过运行程序中的 `print_layouts` 函数来打印模板中可用的布局名称，确保输入文本中的布局名称与模板中的名称一致。
 
+   #添加Fair frames presentation 模版布局
+    ChatPPT Demo [Title]
+    Agenda [Agenda]
+    SH1 [Section Header 1]
+    SH1 [Section Header 2]
+    TCT [Table Content And Table]
+
 
 ### **注意事项**
 
