@@ -7,6 +7,13 @@ def main():
     input_text = """
     # ChatPPT_Demo
 
+#添加Fair frames presentation 模版布局
+    ChatPPT Demo [Title]
+    Agenda [Agenda]
+    SH1 [Section Header 1]
+    SH1 [Section Header 2]
+    TCT [Table Content And Table]
+     
     ## ChatPPT Demo [Title Only]
 
     ## 2024 业绩概述 [Title and Content]
